@@ -17,10 +17,11 @@
     @include ('page.robot')
     @include ('page.howitworks')
     @include ('page.blog')
-    @include ('page.timeline')
+    {{-- @include ('page.timeline') --}}
     @include ('page.press')
-    @include ('page.teammain')
-    @include ('layout.footer')
+    @include ('page.partner')
+    {{-- @include ('page.teammain')
+    @include ('layout.footer') --}}
     
 </body>
 </html>

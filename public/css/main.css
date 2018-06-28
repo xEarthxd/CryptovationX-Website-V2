@@ -1,3 +1,36 @@
 .right {
     float: right;
 }
+
+.header-bg {
+        background-image: url(../images/pinbg.jpg);
+        background-color: #090c1b;
+        background-repeat: no-repeat;
+        background-size:cover;
+}
+
+.white-text {
+    color: #fff;
+    text-align: center;
+}
+
+.btn-x {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 1rem;
+    font-size: 14px;
+    padding: 8px 25px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid #fff;
+}
