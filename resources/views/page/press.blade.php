@@ -1,6 +1,6 @@
-<section class="container">
+<section class="container section">
     <div class="container-fluid">
-        <div class="col-xs-12 col-md-12 text-center">
+        <div class="col-xs-12 col-md-12 text-center mb20">
             <h2>In The Press</h2>
         </div>
         <div class="row">

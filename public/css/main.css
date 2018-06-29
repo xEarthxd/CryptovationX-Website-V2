@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+
+body {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+p {
+    font-size: 14px;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
 .right {
     float: right;
 }
@@ -12,6 +26,11 @@
 .white-text {
     color: #fff;
     text-align: center;
+}
+
+.section {
+    text-align: center;
+    margin: 80px 40px;
 }
 
 .btn-x {
@@ -144,4 +163,70 @@
 
 .mt-top {
     margin: 100px 0px;
+}
+
+.background-white {
+    background-color: #fff;
+}
+
+.navbar-shadow{
+    box-shadow: 5px 9px 25px 0 rgba(0, 0, 0, 0.05);
+  }
+
+.navbar-brand-mat {
+    float: left;
+    height: 50px;
+    padding: 4px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+
+.navbar-default {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    background: transparent;
+    /* text-transform: uppercase; */
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    line-height: 3.3;
+    font-weight: 400;
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: rgba(255, 255, 255, 0.60);
+    background-color: transparent;
+    -webkit-transition: color 0.5s ease 0s;
+    -moz-transition: color 0.5s ease 0s;
+    -o-transition: color 0.5s ease 0s;
+    transition: color 0.5s ease 0s;
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:focus,
+.navbar-default .navbar-nav>.open>a:hover {
+    color: #000;
+    background-color: transparent;
+}
+
+.navbar-right {
+    margin-right: 15px;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: transparent;
+}
+
+.team-member-box h4 {
+    font-size: 18px;
+}
+
+.bio {
+    font-size: 12px;
 }

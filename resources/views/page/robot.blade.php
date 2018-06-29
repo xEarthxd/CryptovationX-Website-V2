@@ -1,6 +1,6 @@
 <!-- Begin Our Process -->
-<div class="container">
-    <div class="col-xs-12 text-center">
+<div class="container section">
+    <div class="col-xs-12 text-center mb20">
         <h2 id="about">CryptovationX Robo-advisory Platform</h2>
         <p class="more mt20">iOS and Android mobile application that can "Answer, Assist and Auto-investing" for you!</p>
     </div>

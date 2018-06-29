@@ -1,8 +1,8 @@
 <section>
-    <div class="container">
+    <div class="container section">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12">
-                <h2 class="text-center">How It Works</h2>
+                <h2 class="text-center mb20">How It Works</h2>
                 <span class="section-divider mb15"></span>
             </div>
         </div>
