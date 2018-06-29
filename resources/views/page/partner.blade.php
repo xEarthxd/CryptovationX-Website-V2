@@ -1,8 +1,9 @@
-<section>
+<section id="partner">
     <div class="container section">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12  text-center mb20">
                 <h2>Tech Partners</h2>
+                <span class="section-divider"></span> 
             </div>
         </div>
         <div class="row ">

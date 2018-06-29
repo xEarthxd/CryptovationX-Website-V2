@@ -12,6 +12,14 @@ p {
     margin-bottom: 20px;
 }
 
+.mr10 {
+    margin-right: 10px;
+}
+
+.ml10 {
+    margin-left: 10px;
+}
+
 .right {
     float: right;
 }
@@ -30,10 +38,53 @@ p {
 
 .section {
     text-align: center;
-    margin: 80px 40px;
+    margin: 60px 40px;
 }
 
 .btn-x {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 1rem;
+    font-size: 14px;
+    padding: 8px 25px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid #fff;
+}
+
+footer a .btn-x-footer {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 1rem;
+    font-size: 14px;
+    padding: 8px 25px;
+    background-color: transparent;
+    color: #000;
+    border: 1px solid #000;
+}
+
+.btn-x:hover {
+    text-decoration: none;
     display: inline-block;
     font-weight: 400;
     text-align: center;
@@ -161,8 +212,28 @@ p {
     margin: 20px 30px;
 }
 
-.mt-top {
-    margin: 100px 0px;
+.mt200 {
+    margin-top: 200px;
+}
+
+.mt150 {
+    margin-top: 150px;
+}
+
+.mt100 {
+    margin-top: 100px;
+}
+
+.mt50 {
+    margin-top: 50px;
+}
+
+.mb50{
+    margin-bottom: 50px;
+}
+
+.mb100{
+    margin-bottom: 100px;
 }
 
 .background-white {
@@ -183,7 +254,7 @@ p {
 
 
 .navbar-default {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Open Sans', sans-serif !important;
     font-size: 14px;
     background: transparent;
     /* text-transform: uppercase; */
@@ -229,4 +300,26 @@ p {
 
 .bio {
     font-size: 12px;
+}
+
+.section-divider {
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 60px;
+    height: 1px;
+    background-color: #dcd9d9;
+}
+
+.robot {
+    width: 100px;
+}
+
+.robot-text {
+    font-size: 18px;
+    text-align: center;
+}
+
+.press {
+    width: 500px;
 }

@@ -10,16 +10,16 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link mr10 ml10 nav-front" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="#">White Paper <span class="sr-only">(current)</span></a>
+        <a class="nav-link mr10 ml10 nav-front" href="#">White Paper <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="#">Blog <span class="sr-only">(current)</span></a>
+        <a class="nav-link mr10 ml10 nav-front" href="#">Blog <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="#">Team <span class="sr-only">(current)</span></a>
+        <a class="nav-link mr10 ml10 nav-front" href="#">Team <span class="sr-only">(current)</span></a>
       </li>
       {{-- <li class="nav-item">
         <a class="nav-link" href="#">Link</a>

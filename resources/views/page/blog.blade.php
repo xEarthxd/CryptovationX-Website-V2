@@ -1,8 +1,9 @@
-<section class="container section">
+<section class="container section" id="blog">
     <div class="container-fluid ">
         <div class="row">
-            <div class="col-xs-12 col-md-12 text-center mb20">
+            <div class="col-xs-12 col-md-12 text-center mb20 ">
                 <h2>Blog</h2>
+                <span class="section-divider"></span> 
             </div>
         </div>
         <div class="row">

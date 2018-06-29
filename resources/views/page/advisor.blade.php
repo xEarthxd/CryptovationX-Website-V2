@@ -1,8 +1,9 @@
-<section>
+<section id="advisor">
         <div class="container section">
             <div class="row">
                 <div class="col-12 text-center">
                     <h2>Advisors</h2>
+                    <span class="section-divider"></span> 
                 </div>
             </div>
             <div class="row mb40">

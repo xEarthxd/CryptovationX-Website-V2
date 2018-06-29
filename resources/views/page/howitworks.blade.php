@@ -1,9 +1,9 @@
-<section>
+<section id="howitwork">
     <div class="container section">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12">
                 <h2 class="text-center mb20">How It Works</h2>
-                <span class="section-divider mb15"></span>
+                <span class="section-divider"></span>
             </div>
         </div>
         <div class="row">

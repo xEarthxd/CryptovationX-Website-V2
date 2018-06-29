@@ -22,9 +22,9 @@
 		<div class="row">
 			<div class="col-12 text-center">
 				<hr>
-				<button type="button" class="btn btn-primary btn-up-footer btn-lg scroll-top">Up</button>
+				<button type="button" class="btn-x btn-primary btn-up-footer btn-lg scroll-top" href="#header">Up</button>
 				<br>
-                        <a class="company  mb20 descipt-people descipt-people bio " href="#">Terms and Conditions</a>
+                        <a class="company  mb20 descipt-people descipt-people bio " href="">Terms and Conditions</a>
 						<br>
 						<br>
 				<p class="no-margin copyright">&copy; 2018 Cryptovation. All Right Reserved</p>
