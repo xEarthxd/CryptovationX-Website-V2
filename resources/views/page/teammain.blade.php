@@ -1,4 +1,4 @@
-<section id="teammain">
+<section id="team">
     <div class="container section">
         <div class="row">
             <div class="col-12 text-center mb20">
