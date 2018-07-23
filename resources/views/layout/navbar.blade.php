@@ -3,7 +3,7 @@
     <a class="navbar-brand-mat" href="#">
       <img src="images/Token3.png" class="img-fluid" alt="Responsive image" height="40px" width="40px">
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+    <button class="navbar navbar-toggler custom-toggler"  type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
       aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
