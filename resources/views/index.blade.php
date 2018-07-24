@@ -23,6 +23,7 @@
     @include ('page.vision')
     @include ('page.project')
     @include ('page.robot')
+    @include ('page.table')
     @include ('page.howitworks')
     @include ('page.blog')
     {{-- @include ('page.timeline') --}}
