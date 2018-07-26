@@ -1,9 +1,9 @@
 <header>
-    <nav class=" navbar navbar-default navbar-fixed-top background-white navbar-shadow">
+    <nav class="navbar navbar-fixed-top navbar.navbar-default bg-white navbar-shadow">
         <div class="container container-fluid">
-            <div class=" row">
-                <div class="  navbar-header">
-                    <button type="button" class=" navbar navbar-toggle collapsed mobile-bar" data-toggle="collapse" data-target="#navbar-top-toggle"
+            <div class="row">
+                <div class="navbar-header">
+                    <button type="button" class="navbar navbar-toggle collapsed mobile-bar" data-toggle="collapse" data-target="#navbar-top-toggle"
                         aria-expanded="false">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
@@ -16,7 +16,7 @@
                 </div>
                 <div class="top-right links">
                     <div class="collapse navbar-collapse" id="navbar-top-toggle">
-                        <ul class="nav navbar-nav navbar-right">
+                        <ul class="nav navbar-nav navbar-right header-nav">
                             <li>
                                 <a href="{{ action('PagesController@getIndex') }}" id="Home" style="color:#000;">Home</a>
                             </li>
@@ -53,7 +53,7 @@
                 </div>
                 <div class="links">
                     <div class="collapse navbar-collapse navbar-inverse" id="navbar-2top-toggle">
-                        <ul class="nav navbar-nav">
+                        <ul class="nav navbar-nav header-nav">
                             <li> <a href="#" id="Home" style="color:#fff;">News</a> </li>
                             <li><a href="#"  style="color:#fff;" >Feature</a> </li>
                             <li><a href="#" style="color:#fff;" id="blog">CXA</a> </li>

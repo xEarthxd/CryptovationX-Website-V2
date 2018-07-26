@@ -2,29 +2,29 @@
     <div class="container section">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12">
-                <h2 class="text-center mb20">How It Works</h2>
-                <span class="section-divider"></span>
+                <h1 class="text-center mb-2">How It Works</h1>
+                <span class="section-divider mb-4"></span>
             </div>
         </div>
         <div class="row">
             <div class="col-sm-8">
-                <h5 class="heading-1 mb20 what">CryptovationX Features</h5>
+                <h3 class="heading-1 mb-4 what">CryptovationX Features</h3>
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AjfWmyxhfcg" allowfullscreen="" width="300px"></iframe>
                 </div>
             </div>
             <div class="col-sm-4 mt30-xs">
-                <h5 class="heading-1 mb20 what">What is CryptovationX?</h5>
+                <h3 class="heading-1 mb20 what">What is CryptovationX?</h3>
                 <div class="tab-content tab-default tab-default">
                     <div class="active text-small" id="whitepaper1">
                         <div class="thumbnail no-margin whitepaper">
                             <div class="caption">
                                 <p>White Paper</p>
-                                <a class="btn btn-default" id="White Paper ENG" href=" {{ asset('whitepaper.pdf') }} " target="_blank" role="button">English</a>
-                                <a class="btn btn-default" id="White Paper CHI" href=" {{ asset('whitepaper_chi.pdf') }}" role="button">中文</a>
-                                <a class="btn btn-default" id="White Paper JPN" role="button" data-toggle="collapse" href="#WhitepaperJapanese" aria-expanded="false"
+                                <a class="btn-default btn-x" id="White Paper ENG" href=" {{ asset('whitepaper.pdf') }} " target="_blank" role="button">English</a>
+                                <a class="btn-x btn-default" id="White Paper CHI" href=" {{ asset('whitepaper_chi.pdf') }}" role="button">中文</a>
+                                <a class="btn-x btn-default" id="White Paper JPN" role="button" data-toggle="collapse" href="#WhitepaperJapanese" aria-expanded="false"
                                     aria-controls="WhitepaperJapanese">日本語</a>
-                                <a class="btn btn-default" id="White Paper KOR" href="#" role="button">한국어</a>
+                                <a class="btn-x btn-default" id="White Paper KOR" href="#" role="button">한국어</a>
                                 <div class="collapse jp" id="WhitepaperJapanese">
                                     <br>
                                     <p>仮想通貨クリプトアセット投資に対するロボ・アドバイザープラットフォーム

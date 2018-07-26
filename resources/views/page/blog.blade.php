@@ -2,8 +2,8 @@
     <div class="container-fluid ">
         <div class="row">
             <div class="col-xs-12 col-md-12 text-center mb20 ">
-                <h2>Blog</h2>
-                <span class="section-divider"></span> 
+                <h1>Blog</h1>
+                <span class="section-divider mb-4"></span> 
             </div>
         </div>
         <div class="row">
@@ -52,6 +52,6 @@
         </div>
     </div>
     <p>
-        <a class="btn btn-default btn-x" href="https://medium.com/cryptovationx" target="_blank" role="button">View All</a>
+        <a class="btn-default btn-x" href="https://medium.com/cryptovationx" target="_blank" role="button">View All</a>
     </p>
 </section>

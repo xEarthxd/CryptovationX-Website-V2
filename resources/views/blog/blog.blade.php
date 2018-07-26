@@ -4,7 +4,6 @@
 <head>
     @include('blog._meta')
     @include('blog._script')
-    
 </head>
 
 <body class="royal_preloader background-white" data-spy="scroll" data-target=".navbar" data-offset="70" style="padding-top:60px;">

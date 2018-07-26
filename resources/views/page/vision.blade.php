@@ -12,10 +12,10 @@
             
             <div id="our-process" class="container container-fluid background-white">
                 <div class="row">
-                    <div class="col-sm-4 col-md-4 col-lg-4 text-center pt-2 mb-2 ">
+                    <div class="col-sm-4 col-md-4 col-lg-4 text-center pt-2 pb-2">
                         <div class=" leftReveal">
                             <img src="/images/Partner.png" id="arbi-image" alt="" width="80" class="robot robot2">
-                            <h5 class="pt15">Experienced Partners</h5>
+                            <h5 class="pt-3">Experienced Partners</h5>
                             <ul>
                                 <li class="more6">Cryptovation.co</li>
                                 <li class="more6">Ava Advisor</li>
@@ -23,10 +23,10 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-md-4 col-lg-4 text-center pt-2 mb-2">
+                    <div class="col-sm-4 col-md-4 col-lg-4 text-center pt-2 pb-2">
                         <div class=" bottomReveal">
                             <img src="/images/Ai.png" id="specto-image" width="80px" class="robot robot2">
-                            <h5 class="pt15">Artifcial Intelligence</h5>
+                            <h5 class="pt-3">Artifcial Intelligence</h5>
                             <ul>
                                 <li class="more6">Deep Learning</li>
                                 <li class="more6">Collective Intelligence</li>
@@ -34,10 +34,10 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-md-4 col-lg-4 text-center pt-2 mb-2 no-border">
+                    <div class="col-sm-4 col-md-4 col-lg-4 text-center pt-2 pb-2 no-border">
                         <div class=" rightReveal">
                             <img src="/images/Application.png" width="80px" class="robot robot2">
-                            <h5 class="pt15">Mobile App Product</h5>
+                            <h5 class="pt-3">Mobile App Product</h5>
                         </div>
                             <ul>
                                 <li class="more6">iOS & Android Platform </li>

@@ -1,7 +1,7 @@
 <section id="work" class="container background-white">
-    <div class="container-fluid ">
+    <div class="container-fluid">
         
-            <div class="col-xs-12 section2">
+            <div class="col-xs-12 section">
                 <h1 class="text-center">Table of Feature Accessibility</h2>
                     <span class="section-divider mb-2 mt-4"></span>
             </div>

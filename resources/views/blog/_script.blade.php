@@ -11,7 +11,8 @@
 <link href="../css/pe-icon-7-stroke.css" rel="stylesheet">
 <link href="../css/magnific-popup.css" rel="stylesheet">
 <link href="../css/logoiconfont.css" rel="stylesheet">
-<link href="../css/style.css" rel="stylesheet" title="main-css">
+<link href="../css/main.css" rel="stylesheet" title="main-css">
+
 
 <!-- Royal Preloader -->
 <script type="text/javascript" src="/js/royal_preloader.min.js"></script>
