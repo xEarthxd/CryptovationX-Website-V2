@@ -109,7 +109,7 @@
                                         <span class="team-image-hover">
                                             <span class="team-hover-content">
                                                 <a href="https://github.com/worakornx " target="_blank">
-                                                    <<span class="fab fa-github social-icons-light-hover mr-3" style="font-size:22px"></span>
+                                                    <span class="fab fa-github social-icons-light-hover mr-3" style="font-size:22px"></span>
                                                 </a>
                                                 <a href="https://www.linkedin.com/in/worakorn-wattanakulchart-4ba95215a/" target="_blank">
                                                     <span class="fab fa-linkedin-in social-icons-light-hover" style="font-size:22px"></span>

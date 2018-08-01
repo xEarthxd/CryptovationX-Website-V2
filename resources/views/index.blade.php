@@ -31,6 +31,7 @@
     @include ('page.partner')
     @include ('page.teammain')
     @include ('page.advisor')
+    @include ('page.teammore')
     @include ('layout.footer')
     
 </body>

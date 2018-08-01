@@ -662,6 +662,39 @@ footer a .btn-x-footer {
     font-size: 15.3px !important;
 }
 
+.more-team {
+    font-size: 20px;
+    background-color: #ff7143 !important;
+    color: white;
+    border-color: white;
+}
+.more-team:hover {
+    background-color: #3498db !important;
+    border-color: #3498db !important;
+}
+
+.more-team-view-all {
+    font-size: 14px;
+    padding: 8px 25px !important;
+    background-color: transparent !important;
+    color: #000;
+    margin: 20px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+   
+    
+}
+
+.more-team-view-all:hover {
+    font-size: 14px;
+    padding: 8px 25px !important;
+    background-color: transparent !important;
+    color: #000;
+    margin: 20px;
+    box-shadow: 1px 2px 10px rgba(5, 23, 39, .4);
+    border-color: none !important;
+
+}
+
 /* =Work
 -------------------------------------------------------------- */
 
@@ -1025,7 +1058,7 @@ span.portfolio-hover a {
 -------------------------------------------------------------- */
 
 .btn {
-    border-radius: 45px;
+    border-radius: 60px !important;
     margin-bottom: 1px;
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
@@ -1041,13 +1074,15 @@ span.portfolio-hover a {
 .btn-default {
     color: #000;
     background-color: transparent;
-    border-color: #535353;
+    border-color: #cecece;
+    border-radius: 60px;
 }
 
 .btn-default:hover {
     color: #fff;
     background-color: #3498db;
     border-color: #3498db;
+    border-radius: 60px;
 }
 
 .btn-default.active.focus,
@@ -1140,14 +1175,7 @@ fieldset[disabled] .btn-default:hover {
     border-color: #504ED2;
 }
 
-.btn.active.focus,
-.btn.active:focus,
-.btn.focus,
-.btn:active.focus,
-.btn:active:focus,
-.btn:focus {
-    outline: none;
-}
+
 
 .btn-primary.active,
 .btn-primary:active,
