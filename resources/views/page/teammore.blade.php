@@ -1,6 +1,6 @@
 <center>
 	<div class="mb-2">
-		<a class="btn-default btn-x scaleReveal more-team" id="moreteam" role="button" data-toggle="collapse" href="#collapseExample"
+		<a class="btn btnv-all scaleReveal more-team" id="moreteam" role="button" data-toggle="collapse" href="#collapseExample"
 		    aria-expanded="false" aria-controls="collapseExample">
 			Click Here to See More Team
 		</a>

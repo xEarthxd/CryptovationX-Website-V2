@@ -52,6 +52,6 @@
         </div>
     </div>
     <p>
-        <a class="btn more-team-view-all" href="https://medium.com/cryptovationx" target="_blank" role="button">View All</a>
+        <a class="btn btnv-all" href="https://medium.com/cryptovationx" target="_blank" role="button">View All</a>
     </p>
 </section>

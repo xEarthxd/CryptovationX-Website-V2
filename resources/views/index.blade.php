@@ -32,7 +32,7 @@
     @include ('page.teammain')
     @include ('page.advisor')
     @include ('page.teammore')
-    @include ('layout.footer')
+    @include ('partial_layout._footer')
     
 </body>
 </html>
