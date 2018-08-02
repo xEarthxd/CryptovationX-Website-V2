@@ -2,7 +2,7 @@
 <footer style="background-color: transparent" class="footer-padding bottomReveal background-white" id="contact">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12 col-sm-offset-2 text-center icon-contact footerdot mt-8" >
+				<div class="col-sm-12 text-center icon-contact footerdot mt-8" >
 					<!-- <span class="icon-handle-streamline-vector logo"></span>
 		<h2 class="theme-title">Particles
 			<span class="theme-title-smaller">Theme</span>
@@ -49,7 +49,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-sm-12 col-sm-offset-2 text-small text-center">
+				<div class="col-sm-12 text-small text-center">
 					<hr>
 					<button type="button" id="up-footer" class="btn btnv-all btn-up-footer btn-lg scroll-top">Up</button>
 					<br>
