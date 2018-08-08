@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     @include('terms_conditions._terms_conditions')
 
-    @include ('partial_layout._footer')
+    @include ('partial_layout._footerterms')
 
     <a href="https://t.me/joinchat/H2POp0-8T_X5FYBq_qfS6A" target="_blank">
     <i class="fab fa-telegram-plane fix-contact"></i>

@@ -1335,3 +1335,7 @@ span.portfolio-hover {
     top: -36px;
 }
 
+a {
+    text-decoration:none !important;
+}
+
